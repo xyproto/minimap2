@@ -1,0 +1,6 @@
+*.bak
+*.swp
+*.tmp
+.DS_Store
+minimap2
+output.png
